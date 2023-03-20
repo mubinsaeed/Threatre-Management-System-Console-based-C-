@@ -1,4 +1,4 @@
-# Threatre-Management-System-Console-based-C++-
+# Threatre-Management-System-Console-based in C language-
 The project contains customer and manager view. The data of all the customers are saved in a text file.
 ![1](https://user-images.githubusercontent.com/127494370/226239038-bbae1513-b503-496f-806b-257d8936c935.PNG)
 ![2](https://user-images.githubusercontent.com/127494370/226239051-3b481750-4532-4312-8082-66acc2ef1a25.PNG)
